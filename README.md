@@ -1,4 +1,5 @@
-自用订阅转换自定义模板
+自用订阅转换自定义模板：
+https://raw.githubusercontent.com/elsenjang26/OPENCLASH-zidingyi-guize/main/new-meta.ini
 
 文件网址填在这里
 
